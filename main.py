@@ -7,7 +7,7 @@ __email__ = ""
 
 
 def io_dict():
-	"""
+    """
     
     docstring располагается здесь 
     

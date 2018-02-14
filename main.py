@@ -33,6 +33,7 @@ def dict(list1, list2):
     # return
 
 
+	
 if __name__ == '__main__':
 	# тесты располагаются ниже этой строки 
 	pass  # pass можно удалить

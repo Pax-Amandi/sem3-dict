@@ -6,6 +6,20 @@ __email__ = ""
 
 
 
+def io_dict():
+	"""
+    
+    docstring располагается здесь 
+    
+    """
+
+    # ваш код располагается ниже этой строки 
+    pass  # pass можно удалить
+
+    # return
+
+
+
 def dict(list1, list2):
     """
     
